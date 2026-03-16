@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+.server_pid
+server.log
+package-lock.json

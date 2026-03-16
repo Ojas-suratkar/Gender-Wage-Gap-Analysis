@@ -1,0 +1,11 @@
+{
+  "name": "lmu-datathon-wage-gap-insights-main",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "screenshot": "node scripts/screenshot.js"
+  },
+  "devDependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}
