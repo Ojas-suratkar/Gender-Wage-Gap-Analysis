@@ -1,5 +1,9 @@
 ## Wage Gap Insights
 
+[![Wage Gap Insights walkthrough](docs/wage-gap-demo.jpg)](docs/wage-gap-demo.mp4)
+
+**Watch the 60-second walkthrough** of every tab: the dashboard, the evidence models, prior-salary anchoring, the salary history ban and the conclusion. ([download the mp4](docs/wage-gap-demo.mp4))
+
 A data analytics dashboard examining gender pay disparities and the role of salary history ("anchoring") in long-run wage dynamics.
 
 This repository contains an interactive front-end built with HTML, CSS, and Chart.js that presents descriptive statistics, model summaries, and simulated policy counterfactuals based on the NLSY97 job-level panel (1997-2021), put together for the LMU Datathon.
